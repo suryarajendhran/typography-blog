@@ -1,7 +1,7 @@
 ---
 title: Lorem Ipsum what?
 description: What the supposedly latin word spaghetti means
-author: Beautiful words
+author: Surya Rajendhran
 date: 2020-12-15T17:24:13.680Z
 tags:
   - created
