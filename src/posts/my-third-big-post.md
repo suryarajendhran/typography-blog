@@ -1,5 +1,5 @@
 ---
-title: This is my third post
+title: First post!
 description: Iterative approaches to corporate strategy foster collaborative
   thinking to further the overall value proposition. Organically grow the
   holistic world view of disruptive innovation via workplace diversity and
